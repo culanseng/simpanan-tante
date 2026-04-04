@@ -10,8 +10,8 @@
 <link rel="icon" type="image/x-icon" href="https://gambar-cuan.pages.dev/nenghoki/faviconneng.png" />
 <link rel="apple-touch-icon" href="https://gambar-cuan.pages.dev/nenghoki/faviconneng.png">
 <link rel="canonical" href="https://nscpolteksby.ac.id/ebook/">
-<link rel="amphtml" href="https://simpanan-tante.pages.dev/sidesajatisaba.purbalinggakab/amp" />
-<link rel="alternate" hreflang="id-id" href="https://simpanan-tante.pages.dev/sidesajatisaba.purbalinggakab/amp" />
+<link rel="amphtml" href="https://simpanan-tante.pages.dev/nscpolteksby.ebook/amp" />
+<link rel="alternate" hreflang="id-id" href="https://simpanan-tante.pages.dev/nscpolteksby.ebook/amp" />
 <link as='image' href='https://gambar-cuan.pages.dev/nenghoki/bannerneng22.png' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -240,7 +240,7 @@ ga('require', 'GTM-KL7BC3L');
 
 </button></div>
 <div class='vc-header__cta'>
-<a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://simpanan-tante.pages.dev/sidesajatisaba.purbalinggakab/amp" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
+<a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://simpanan-tante.pages.dev/nscpolteksby.ebook/amp" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
 <span class='link__content'>
 DAFTAR AKUN
 
@@ -364,9 +364,9 @@ ANGKA TOGEL
 
         
                           <div class="n-columns-2">
-                                <a href="https://simpanan-tante.pages.dev/sidesajatisaba.purbalinggakab/amp" rel="nofollow noreferrer"
+                                <a href="https://simpanan-tante.pages.dev/nscpolteksby.ebook/amp" rel="nofollow noreferrer"
                                  class="login">LOGIN</a>
-                               <a href="https://simpanan-tante.pages.dev/sidesajatisaba.purbalinggakab/amp" rel="nofollow noreferrer"
+                               <a href="https://simpanan-tante.pages.dev/nscpolteksby.ebook/amp" rel="nofollow noreferrer"
                                   class="register">DAFTAR</a>
                                 </div>
                              </div>
@@ -679,8 +679,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://simpanan-tante.pages.dev/sidesajatisaba.purbalinggakab/amp" class="btn-x">DAFTAR DISINI</a>
-<a href="https://simpanan-tante.pages.dev/sidesajatisaba.purbalinggakab/amp" class="btn-x">LOGIN DISINI</a>
+<a href="https://simpanan-tante.pages.dev/nscpolteksby.ebook/amp" class="btn-x">DAFTAR DISINI</a>
+<a href="https://simpanan-tante.pages.dev/nscpolteksby.ebook/amp" class="btn-x">LOGIN DISINI</a>
 <style>
 .btn-x{
   display:inline-block;
@@ -976,7 +976,7 @@ document.querySelectorAll('.faq-question').forEach(button => {
 
   </table>
 <p>
-                             <a href="https://simpanan-tante.pages.dev/sidesajatisaba.purbalinggakab/amp" target="_blank">
+                             <a href="https://simpanan-tante.pages.dev/nscpolteksby.ebook/amp" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://gambar-cuan.pages.dev/nenghoki/tomboldaftarneng.gif" width="400" height="150"/>
                              </a>
                            </p>
@@ -3119,23 +3119,23 @@ Shop All Designs
     
 
 <div class="NENGHOKI-fixed-footer">
-  <a href="https://simpanan-tante.pages.dev/sidesajatisaba.purbalinggakab/amp" target="_blank" rel="nofollow noopener">
+  <a href="https://simpanan-tante.pages.dev/nscpolteksby.ebook/amp" target="_blank" rel="nofollow noopener">
     <img src="https://gambar-cuan.pages.dev/nenghoki/faviconneng.png" alt="BONUS NENGHOKI">
     PROMO
   </a>
-  <a href="https://simpanan-tante.pages.dev/sidesajatisaba.purbalinggakab/amp" target="_blank" rel="nofollow noopener">
+  <a href="https://simpanan-tante.pages.dev/nscpolteksby.ebook/amp" target="_blank" rel="nofollow noopener">
     <img src="https://gambar-cuan.pages.dev/nenghoki/faviconneng.png" alt="LOGIN NENGHOKI">
     LOGIN
   </a>
-  <a href="https://simpanan-tante.pages.dev/sidesajatisaba.purbalinggakab/amp" target="_blank" rel="nofollow noopener" class="tada">
+  <a href="https://simpanan-tante.pages.dev/nscpolteksby.ebook/amp" target="_blank" rel="nofollow noopener" class="tada">
     <img src="https://gambar-cuan.pages.dev/nenghoki/faviconneng.png" alt="DAFTAR NENGHOKI">
     DAFTAR
   </a>
-  <a href="https://simpanan-tante.pages.dev/sidesajatisaba.purbalinggakab/amp" target="_blank" rel="nofollow noopener">
+  <a href="https://simpanan-tante.pages.dev/nscpolteksby.ebook/amp" target="_blank" rel="nofollow noopener">
     <img src="https://gambar-cuan.pages.dev/nenghoki/faviconneng.png" alt="WHATSAPP NENGHOKI">
     WHATSAPP
   </a>
-  <a href="https://simpanan-tante.pages.dev/sidesajatisaba.purbalinggakab/amp" target="_blank" rel="nofollow noopener">
+  <a href="https://simpanan-tante.pages.dev/nscpolteksby.ebook/amp" target="_blank" rel="nofollow noopener">
     <img src="https://gambar-cuan.pages.dev/nenghoki/faviconneng.png" alt="LIVE CHAT NENGHOKI">
     LIVE CHAT
   </a>
@@ -3155,11 +3155,11 @@ Shop All Designs
 
     <!-- Tombol DAFTAR & LOGIN -->
     <div style="display: flex; justify-content: space-between; width: 100%; gap: 10px; margin-bottom: 16px;">
-      <a href="https://simpanan-tante.pages.dev/sidesajatisaba.purbalinggakab/amp"
+      <a href="https://simpanan-tante.pages.dev/nscpolteksby.ebook/amp"
         style="flex: 1; background: linear-gradient(to right, #c98405, #c98405); height: 44px; line-height: 44px; text-align: center; color: white; font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 0 8px rgba(0,0,0,0.6);">
         DAFTAR
       </a>
-      <a href="https://simpanan-tante.pages.dev/sidesajatisaba.purbalinggakab/amp"
+      <a href="https://simpanan-tante.pages.dev/nscpolteksby.ebook/amp"
         style="flex: 1; background: linear-gradient(to right, #c98405, #c98405); height: 44px; line-height: 44px; text-align: center; color: white; font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 0 8px rgba(0,0,0,0.6);">
         LOGIN
       </a>
