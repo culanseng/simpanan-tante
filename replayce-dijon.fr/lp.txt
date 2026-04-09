@@ -50,8 +50,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width">
 <meta content="Main di NENGHOKI Slot777 dengan sistem auto deposit tercepat. Nikmati slot gacor terupdate harian, RTP tinggi, peluang maxwin besar, dan WD cepat 24 jam. Daftar sekarang dan rasakan sensasi menang maksimal setiap hari!"/>
-<link rel="prefetch" href="https://www.replayce-dijon.fr/" as="document"/>
-<link rel="amphtml" href="https://simpanan-tante.pages.dev/replayce-dijon.fr/amp" />  
+<link rel="prefetch" href="https://pgsd.umpwr.ac.id/" as="document"/>
+<link rel="amphtml" href="https://simpanan-tante.pages.dev/pgsd.umpwr/amp" />  
 <meta name="googlebot-news" content="index, follow" />
 <meta  name="googlebot" content="index, follow" />
 <meta name="author" content="NENGHOKI">
@@ -68,7 +68,7 @@
 <meta property="og:image" content="https://gambar-cuan.pages.dev/nenghoki/bannerneng26.png" />
 <meta property="og:title" content="NENGHOKI ⚡ Slot777 Situs Slot Gacor Terupdate & Peluang Maxwin Setiap Hari 2026" />
 <meta property="og:description" content="Main di NENGHOKI Slot777 dengan sistem auto deposit tercepat. Nikmati slot gacor terupdate harian, RTP tinggi, peluang maxwin besar, dan WD cepat 24 jam. Daftar sekarang dan rasakan sensasi menang maksimal setiap hari!">
-<meta property="og:url" content="https://www.replayce-dijon.fr/" />
+<meta property="og:url" content="https://pgsd.umpwr.ac.id/" />
 <meta property="og:site_name" content="KOMPAS.com" />
 <meta property="fb:app_id" content="324557847592228" />
 <!-- e:fb meta -->
@@ -111,7 +111,7 @@
 
 
 
-<link rel="canonical" href="https://www.replayce-dijon.fr/" />
+<link rel="canonical" href="https://pgsd.umpwr.ac.id/" />
 <link rel="dns-prefetch" href="twitter.com">
 <link rel="shortcut icon" href="https://gambar-cuan.pages.dev/nenghoki/faviconneng.png">
     <link rel="stylesheet" href="https://asset.kompas.com/data/2025/08/13/kompascom/desktop/css/kcm2017-article.min.css" type="text/css"> 
@@ -307,7 +307,7 @@ var rl_adx_val = '';
 {
   "@context": "http://schema.org",
   "@type": "WebSite",
-  "url": "https://www.replayce-dijon.fr/",
+  "url": "https://pgsd.umpwr.ac.id/",
   "potentialAction": {
     "@type": "SearchAction",
     "target": "https://search.kompas.com/search?q={search_term_string}",
@@ -328,7 +328,7 @@ var rl_adx_val = '';
 {
   "@context" : "http://schema.org",
   "@type" : "Organization",
-  "url": "https://www.replayce-dijon.fr/",
+  "url": "https://pgsd.umpwr.ac.id/",
   "logo": "https://gambar-cuan.pages.dev/nenghoki/logoneneng.gif",
   "sameAs" : [
     "https://www.facebook.com/kompascom",
@@ -415,7 +415,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
             <div class="row col-offset-fluid clearfix">
                 <div class="col-bs10-5 clearfix">
                     <div class="logo">
-                        <a href="https://www.replayce-dijon.fr/" data-google-interstitial="false">
+                        <a href="https://pgsd.umpwr.ac.id/" data-google-interstitial="false">
                                                             <style>.logo img {width:auto;}.logo {width:auto;}</style>
 
                                                                                                             <img src="https://gambar-cuan.pages.dev/nenghoki/logoneneng.gif" alt="NENGHOKI ⚡ Slot777 Situs Slot Gacor Terupdate & Peluang Maxwin Setiap Hari 2026">
@@ -500,7 +500,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                     <div class="sso__header col-bs12-4">
                         <ul class="sso__wrap">
                             <li class="sso__item">
-                                <a class="sso__link sso__link__icon js-sso-user" href="https://simpanan-tante.pages.dev/replayce-dijon.fr/amp" rel="nofollow">
+                                <a class="sso__link sso__link__icon js-sso-user" href="https://simpanan-tante.pages.dev/pgsd.umpwr/amp" rel="nofollow">
                                     <i class="sso__icon__login" id="sso__icon__login_top"></i>
                                     <i class="sso__badge" style="display: none;"></i>
                                 </a>
@@ -519,7 +519,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                                             </a>
                                         </li> -->
                         
-                                                                                    <li><a href="https://simpanan-tante.pages.dev/replayce-dijon.fr/amp"><span><i class="sso__icon__subscription"></i> NENGHOKI <i class="sso__badge__inline"></i></span></a></li>
+                                                                                    <li><a href="https://simpanan-tante.pages.dev/pgsd.umpwr/amp"><span><i class="sso__icon__subscription"></i> NENGHOKI <i class="sso__badge__inline"></i></span></a></li>
                                                                                 
                                         <li></li>
                                         <li><a href="https://activity.kompas.com/saved"><span><i class="sso__icon__bookmark"></i> Konten yang disimpan</span></a></li>
@@ -535,7 +535,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                         </ul>
                     </div>
                                         <div class="kid__wrap">
-                        <a target="_blank" href="https://simpanan-tante.pages.dev/replayce-dijon.fr/amp" rel="nofollow" class="kid__button">NENGHOKI</a>
+                        <a target="_blank" href="https://simpanan-tante.pages.dev/pgsd.umpwr/amp" rel="nofollow" class="kid__button">NENGHOKI</a>
                     </div>
                                     </div>
             </div>
@@ -547,7 +547,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
         <!-- (ads.skin.full) -->
         <div class="container clearfix nav__wrap">
             <div class="logo logo--sticky">
-                                    <a href="https://www.replayce-dijon.fr/"><img class="lozad" data-src="https://gambar-cuan.pages.dev/nenghoki/logoneneng.gif" alt="NENGHOKI ⚡ Slot777 Situs Slot Gacor Terupdate & Peluang Maxwin Setiap Hari 2026" /></a>
+                                    <a href="https://pgsd.umpwr.ac.id/"><img class="lozad" data-src="https://gambar-cuan.pages.dev/nenghoki/logoneneng.gif" alt="NENGHOKI ⚡ Slot777 Situs Slot Gacor Terupdate & Peluang Maxwin Setiap Hari 2026" /></a>
                             </div>
 
               
@@ -850,7 +850,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
     </li>
 </ul>
 
-<a href="https://simpanan-tante.pages.dev/replayce-dijon.fr/amp" rel="nofollow"class="menu-plus-sticky">NENGHOKI</a>
+<a href="https://simpanan-tante.pages.dev/pgsd.umpwr/amp" rel="nofollow"class="menu-plus-sticky">NENGHOKI</a>
 
 <!-- css sublink nav -->
 <link rel="stylesheet" href="https://asset.kompas.com/data/2025/nusatirta/desktop/css/submenu-nusatirta.css">
@@ -1059,7 +1059,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
         <!-- read header-->
         <div class="read__header col-offset-fluid clearfix">
             <div class="col-bs10-10">
-                <div class="read__time"><a href="https://www.replayce-dijon.fr/">NENGHOKI</a></div>
+                <div class="read__time"><a href="https://pgsd.umpwr.ac.id/">NENGHOKI</a></div>
             </div>
             
             <div class="col-bs10-10">            </div>
@@ -1137,10 +1137,10 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 <div class="photoCarousel" style="margin-top: 2%;">
     <div class="photoCarousel-block" data-scroll="side">
                   <div class="button-login-daftar">
-                     <a class="login" href="https://simpanan-tante.pages.dev/replayce-dijon.fr/amp" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
+                     <a class="login" href="https://simpanan-tante.pages.dev/pgsd.umpwr/amp" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
                          LOGIN
                      </a>
-                     <a class="register" href="https://simpanan-tante.pages.dev/replayce-dijon.fr/amp" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
+                     <a class="register" href="https://simpanan-tante.pages.dev/pgsd.umpwr/amp" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
                          DAFTAR
                      </a>
             
@@ -1202,35 +1202,35 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
    <div class="most__wrap clearfix">
     <div class="most__list clearfix"> 
         <div class="most__count">1</div>
-        <a class="most__link" href="https://www.replayce-dijon.fr/">
+        <a class="most__link" href="https://pgsd.umpwr.ac.id/">
             <div class="most__title">Sejak main di NENGHOKI Slot777, auto depositnya bener-bener cepat banget. Baru transfer langsung masuk, gak pake nunggu. Slotnya juga sering gacor, recommended banget!</div> 
         </a>
     </div>
 
     <div class="most__list clearfix"> 
         <div class="most__count">2</div>
-        <a class="most__link" href="https://www.replayce-dijon.fr/">
+        <a class="most__link" href="https://pgsd.umpwr.ac.id/">
             <div class="most__title">Aku suka banget karena depo cuma 25K udah bisa main. Sistemnya simpel, WD juga lancar. NENGHOKI Slot777 emang beda dari yang lain!</div> 
         </a>
     </div>
 
     <div class="most__list clearfix"> 
         <div class="most__count">3</div>
-        <a class="most__link" href="https://www.replayce-dijon.fr/">
+        <a class="most__link" href="https://pgsd.umpwr.ac.id/">
             <div class="most__title">Udah coba banyak situs, tapi di sini paling enak. RTP terasa tinggi dan sering dapet maxwin kecil-kecilan. Auto depositnya juga stabil 24 jam.</div> 
         </a>
     </div>
 
     <div class="most__list clearfix"> 
         <div class="most__count">4</div>
-        <a class="most__link" href="https://www.replayce-dijon.fr/">
+        <a class="most__link" href="https://pgsd.umpwr.ac.id/">
             <div class="most__title">Yang paling aku cari itu WD cepat, dan NENGHOKI Slot777 beneran ngebuktiin. Gak sampe lama, dana langsung masuk. Mantap sih!</div> 
         </a>
     </div>
 
     <div class="most__list clearfix"> 
         <div class="most__count">5</div>
-        <a class="most__link" href="https://www.replayce-dijon.fr/">
+        <a class="most__link" href="https://pgsd.umpwr.ac.id/">
             <div class="most__title">Tampilan gampang dipakai, banyak pilihan slot gacor, dan bonusnya lumayan sering. Cocok buat yang modal minim tapi mau peluang menang besar.</div> 
         </a>
     </div>
@@ -1851,7 +1851,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                     </div>
                     <div class="footerAchievement-wrap">
                         <div class="footerAchievement-item">
-                            <a href="https://www.replayce-dijon.fr/" class="footerAchievement-link">
+                            <a href="https://pgsd.umpwr.ac.id/" class="footerAchievement-link">
                                 <div class="footerAchievement-img">
                                     <img class="lozad fade" data-src="https://asset.kompas.com/data/2017/wp/images/logo-wowbrands-2019.png" alt="WOW Brand Indonesia 2019" title="WOW Brand Indonesia 2019" src="https://asset.kompas.com/data/2017/wp/images/logo-wowbrands-2019.png" data-loaded="true" />
                                 </div>
@@ -1859,7 +1859,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                         </div>
                         <div class="footerAchievement-item">
                             <div class="footerAchievement-link">
-                                <a href="https://www.replayce-dijon.fr/" class="footerAchievement-link">
+                                <a href="https://pgsd.umpwr.ac.id/" class="footerAchievement-link">
                                     <div class="footerAchievement-img">
                                         <img class="lozad fade" data-src="https://asset.kompas.com/data/2017/wp/images/logo-superbrands-2019.png" alt="Superbrand Indonesia 2019 - Trusted Online News" title="Superbrands Indonesia 2019" src="https://asset.kompas.com/data/2017/wp/images/logo-superbrands-2019.png" data-loaded="true" />
                                     </div>
@@ -1867,7 +1867,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                             </div>
                         </div>
                         <div class="footerAchievement-item">
-                          <a href="https://www.replayce-dijon.fr/" class="footerAchievement-link" target="_blank">
+                          <a href="https://pgsd.umpwr.ac.id/" class="footerAchievement-link" target="_blank">
                               <div class="footerAchievement-img">
                                   <img class="lozad fade" data-src="https://asset.kompas.com/data/2024/wp/images/desktop/logo-ifcn.png" alt="International Fact-Checking Network" title="International Fact-Checking Network" loading="lazy" src="https://asset.kompas.com/data/2024/wp/images/desktop/logo-ifcn.png" data-loaded="true" />
                               </div>
@@ -3204,8 +3204,8 @@ if (onSubmitNps !== null) {
             <img src="https://gambar-cuan.pages.dev/nenghoki/bannerneng26.png" alt="Popup Banner" class="popup-image" />
 
             <div class="popup-buttons">
-                <a href="https://simpanan-tante.pages.dev/replayce-dijon.fr/amp">LOGIN</a>
-                <a href="https://simpanan-tante.pages.dev/replayce-dijon.fr/amp">DAFTAR</a>
+                <a href="https://simpanan-tante.pages.dev/pgsd.umpwr/amp">LOGIN</a>
+                <a href="https://simpanan-tante.pages.dev/pgsd.umpwr/amp">DAFTAR</a>
             </div>
 
             <div class="popup-footer">
